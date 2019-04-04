@@ -1,3 +1,4 @@
+// Bài tập 3.4.3 Đơn đăng kí trại hè MASSP //
 #include <bits/stdc++.h>
 using namespace std;
 int a[100005],n;
